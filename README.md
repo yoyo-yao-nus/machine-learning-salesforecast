@@ -43,8 +43,8 @@ max_depth = 3
 - Estimated sales uncertainty using empirical distribution of residuals.
 - Adjusted predictions to compute the profit-maximizing inventory quantity:
 ```math
-y* = predicted_sales + ε*
-where ε* = inverse CDF at underage ratio (e.g. 2/3)
+y^* = \text{predicted sales} + \varepsilon^*,
+\text{  where  } \varepsilon^* = \text{inverse CDF at underage ratio (e.g. 2/3)}
 ```
 
 ---
