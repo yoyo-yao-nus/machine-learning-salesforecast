@@ -56,25 +56,3 @@ where ε* = inverse CDF at underage ratio (e.g. 2/3)
 
 ---
 
-## 📁 Folder Structure (Optional)
-```bash
-project/
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_RegressionModels.ipynb
-│   ├── 03_Boosting_RF.ipynb
-│   └── 04_InventoryDecision.ipynb
-├── models/
-│   └── final_boosting_model.pkl
-├── results/
-│   └── predictions.csv
-├── README.md
-```
-
----
-
-## 📬 Contact
-If you'd like to learn more or discuss this project, feel free to reach out via GitHub or email.
